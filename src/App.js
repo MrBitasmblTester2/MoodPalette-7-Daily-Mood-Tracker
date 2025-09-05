@@ -1,0 +1,1 @@
+import React, {useState, useEffect} from \"react\";\nimport MoodSelector from \"./components/MoodSelector\";\nimport Heatmap from \"./components/Heatmap\";\nimport \"./App.css\";\n// TODO: useState for moods mapping dates to emoji\n// TODO: useEffect to load/save moods to localStorage\nexport default function App(){return(<div><MoodSelector/><Heatmap/></div>);} 
