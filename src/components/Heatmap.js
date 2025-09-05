@@ -1,0 +1,1 @@
+import React from \"react\";\nexport default function Heatmap({moods}){\n  // TODO: iterate over month dates and render colored cells\n  return (<div className=\"heatmap\">{/* date cells here */}</div>);\n}
