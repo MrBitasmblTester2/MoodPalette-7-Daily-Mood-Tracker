@@ -1,0 +1,1 @@
+export const moodColors = {\n  \"😊\": \"#ff0\",\n  \"😐\": \"#ccc\",\n  \"😔\": \"#f00\"\n};
